@@ -1,0 +1,24 @@
+.header_div{
+    margin: 0px;
+    background-color: rgb(107, 125, 134);
+    color: white;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(78, 109, 136);
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+#i_can_hear{
+    color: white;
+}
